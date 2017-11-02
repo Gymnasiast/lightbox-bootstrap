@@ -1,3 +1,6 @@
 {
-  "name": "gymnasiast/lightbox-bootstrap"
+  "name": "gymnasiast/lightbox-bootstrap",
+  "description": "A modified version of Lightbox that fits in with Bootstrap 3's style.",
+  "type": "library",
+  "license": "MIT"
 }
